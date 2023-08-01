@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: rgb(51, 183, 198, 0.39);
+    margin: 2;
+    }
+
+        form{
+            /* border: 3px solid green; */
+            border-top: 2px solid black;
+            padding: 30px;
+            max-width: 400px;
+            margin: auto; 
+            margin-top: 10px;
+            background: rgba(51, 183, 198, 0.39);
+            
+        }
+        
+        #titulo {
+            font-weight: bold;
+    font-size: 70px;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+    letter-spacing: 3px ;
+        }
+
+        #nada {
+            background-color: rgb(160, 23, 23);
+    color: aliceblue;
+    padding: 10px 25px;
+    font-size: 15px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+        }
+
+    
+.form-input {
+    margin-bottom: 30px;
+
+}
+
+.form-input {
+    display: block;
+    margin-top: 10px;
+    font-size: 15px;
+    }
+
+
